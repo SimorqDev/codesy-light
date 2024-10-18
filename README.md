@@ -1,1 +1,1 @@
-# codesy-light
+# codesy CMS LITE
